@@ -1,0 +1,9 @@
+.flex-value{
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  background: red;
+  margin-top: 15px;
+  padding: 0 13px;
+  border-radius: 5px;
+}
